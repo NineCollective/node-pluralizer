@@ -4,18 +4,18 @@
     "description": "Pluralizes words based on common patterns.",
     "main": "index.js",
     "scripts": {
-        "test": "mocha"
+        "test": "mocha --reporter mocha-teamcity-reporter test"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NineCollective/pluralizer.git"
+        "url": "https://github.com/NineCollective/node-pluralizer.git"
     },
     "author": "Nine Collective",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/NineCollective/pluralizer/issues"
+        "url": "https://github.com/NineCollective/node-pluralizer/issues"
     },
-    "homepage": "https://github.com/NineCollective/pluralizer",
+    "homepage": "https://github.com/NineCollective/node-pluralizer",
     "devDependencies": {
         "mocha": "~1.21.4",
         "mocha-teamcity-reporter": "0.0.4",
