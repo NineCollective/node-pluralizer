@@ -3,8 +3,8 @@ pluralizer
 
 Inflector pluralization ported from a C# library we were using, originally written (I believe) by Andrew Peters, as well as unit tests of the class.
 
-<img src="http://teamcity.ninecollective.com/teamcity/app/rest/builds/buildType:(id:OpenSourceBuilds_Pluralize)/statusIcon"/>
-
+<script type="text/javascript" src="teamcity.ninecollective.com/externalStatus.html?js=1">
+</script>
 Installation
 ============
 ```javascript
