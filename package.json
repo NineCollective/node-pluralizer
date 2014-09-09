@@ -1,7 +1,7 @@
 {
     "name": "pluralizer",
-    "version": "1.0.0",
-    "description": "Pluralizer",
+    "version": "1.0.1",
+    "description": "Pluralizes words based on common patterns.",
     "main": "index.js",
     "scripts": {
         "test": "mocha"
@@ -11,7 +11,7 @@
         "url": "https://github.com/NineCollective/pluralizer.git"
     },
     "author": "Nine Collective",
-    "license": "BSD-2-Clause",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/NineCollective/pluralizer/issues"
     },
