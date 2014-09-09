@@ -4,7 +4,7 @@
     "description": "Pluralizer",
     "main": "index.js",
     "scripts": {
-        "test": "mocha"
+        "test": "mocha --reporter mocha-teamcity-reporter test"
     },
     "repository": {
         "type": "git",
