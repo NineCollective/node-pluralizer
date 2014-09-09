@@ -1,0 +1,24 @@
+{
+    "name": "pluralizer",
+    "version": "1.0.0",
+    "description": "Pluralizer",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NineCollective/pluralizer.git"
+    },
+    "author": "Nine Collective",
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/NineCollective/pluralizer/issues"
+    },
+    "homepage": "https://github.com/NineCollective/pluralizer",
+    "devDependencies": {
+        "mocha": "~1.21.4",
+        "mocha-teamcity-reporter": "0.0.4",
+        "should": "~4.0.4"
+    }
+}
